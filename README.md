@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhakar-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakar-sudo" /> </p>
 
-- 🌱 I’m currently learning **JAVA, DSA With C**
+- 🌱 I’m currently learning **JAVA, DSA With C++**
 
 - 📫 How to reach me **prabhakarmkg1865@gmail.com**
 

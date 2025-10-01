@@ -16,6 +16,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/code_ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_ps" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabhakar-kumar-575364263/" target="blank"><img align="center" src="https://img.icons8.com/?id=xuvGCOXi8Wyg&format=png&color=000000" alt="code_ps" height="50" width="40" /></a>  
 </p>
 
 ---
